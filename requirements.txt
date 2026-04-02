@@ -1,0 +1,5 @@
+requirements
+streamlit
+scikit-learn
+pandas 
+numpy
